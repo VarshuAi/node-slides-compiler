@@ -1,0 +1,8 @@
+{
+  "name": "node-slides-compiler",
+  "version": "1.0.0",
+  "main": "compiler.js",
+  "bin": {
+    "slides-compiler": "./compiler.js"
+  }
+}
