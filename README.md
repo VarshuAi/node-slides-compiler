@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Compile Markdown syntax directly into professional presentations in HTML format.
+  name: node-slides-compiler version: 1.0 type: Repository author: VarshuAi description: >   Compile Markdown syntax directly into professional presentations in HTML format. primary_tech: JavaScript
 primary_tech: JavaScript
 ```
 
